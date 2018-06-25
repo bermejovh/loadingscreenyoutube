@@ -100,9 +100,9 @@ var l_messagesEnabled = true;
 
 /*Enter your custom messages below*/
 var l_messages = [
-"Enjoy the server",
-"Thanks for joining us!",
-"Did you know these backgrounds and songs are from Touhou?"
+"Aproveite o Server!",
+"Obrigado pela preferencia!",
+"Bem-Vindo ao melhor servidor de DarkRP do BRASIL"
 ];
 
 /*Random message order?*/
