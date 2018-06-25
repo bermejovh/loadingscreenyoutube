@@ -85,9 +85,8 @@ var l_musicDisplay = true;
 /*Music playlist
 Place how much Youtube IDs/.ogg you want*/
 var l_musicPlaylist = [
-	{ogg: "songs/Lullaby of Deserted Hell.ogg", name: "Lullaby of Deserted Hell"},
-	{youtube: "j0PA0PX7lKo", name: "セプテットはディナーと共に"},
-	{youtube: "yHZfHPhNjXo", name: "いざオペラ座へ"},
+	{youtube: "tQ6v9-w5G8A", name: "$UICIDEBOY$ - O PANA! [Chopped & Screwed] PhiXioN"},
+	{youtube: "Szs5i7xhj00", name: "Will Smith - Fresh Prince Of Bel Air (Le Boeuf Remix)"},
 	{youtube: "-7VeTkLKdDw", name: "Departure"}
 ];
 
