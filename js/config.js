@@ -13,7 +13,7 @@ var l_serverImage = "images/logo.png";
 
 /*Custom server name configuration
 Leave it blank for automatic server name*/
-var l_serverName = "sleekLoad 2";
+var l_serverName = "»|GoldServe® DarkRP Brasil! V0.1 SEM LAG|« 0% LAG!!NEED STAFF♥♥♥";
 
 /*Use a video for the background?
 Otherwise it will just use images*/
