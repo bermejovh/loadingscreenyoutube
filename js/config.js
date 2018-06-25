@@ -86,8 +86,6 @@ var l_musicDisplay = true;
 Place how much Youtube IDs/.ogg you want*/
 var l_musicPlaylist = [
 	{youtube: "tQ6v9-w5G8A", name: "$UICIDEBOY$ - O PANA! [Chopped & Screwed] PhiXioN"},
-	{youtube: "Szs5i7xhj00", name: "Will Smith - Fresh Prince Of Bel Air (Le Boeuf Remix)"},
-	{youtube: "-7VeTkLKdDw", name: "Departure"}
 ];
 
 /*Random music order?*/
